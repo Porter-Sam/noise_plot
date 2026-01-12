@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: noise.py",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/noise.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}",
+            "env": {},
+            "args": [],
+            "justMyCode": true
+        }
+    ]
+}
